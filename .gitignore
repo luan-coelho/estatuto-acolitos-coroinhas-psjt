@@ -1,0 +1,6 @@
+.astro/
+.wrangler/
+dist/
+node_modules/
+src/content/docs/
+

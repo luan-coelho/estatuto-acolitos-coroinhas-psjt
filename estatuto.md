@@ -19,7 +19,7 @@ O presente Estatuto organiza a formação, o serviço litúrgico e a convivênci
 ## DA FINALIDADE E DAS NORMAS APLICÁVEIS
 
 ### Art. 1º
-O grupo **Acólitos e Coroinhas da Paróquia São Judas Tadeu** integra a vida pastoral da Paróquia e tem por finalidade servir nas celebrações, promover formação litúrgica e espiritual, cultivar a fraternidade e incentivar o discernimento vocacional.
+A **Pastoral dos Acólitos e Coroinhas da Paróquia São Judas Tadeu** integra a vida pastoral da Paróquia e tem por finalidade servir nas celebrações, promover formação litúrgica e espiritual, cultivar a fraternidade e incentivar o discernimento vocacional.
 
 Parágrafo único. O serviço do altar não constitui privilégio pessoal nem direito adquirido.
 
@@ -58,9 +58,9 @@ V – **Cerimoniário ou Mestre de Cerimônias:** acólito instituído ou tempor
 §2º A expressão “servidores do altar” compreende, neste Estatuto, os coroinhas, os acólitos temporários ou investidos e os acólitos instituídos, salvo indicação contrária.
 
 ### Art. 5º
-O grupo está sob a autoridade pastoral do Pároco, a quem compete:
+A Pastoral está sob a autoridade pastoral do Pároco, a quem compete:
 
-I – acompanhar o grupo e zelar pela observância das normas litúrgicas;
+I – acompanhar a Pastoral e zelar pela observância das normas litúrgicas;
 
 II – aprovar o Estatuto e suas alterações;
 
@@ -69,7 +69,7 @@ III – nomear ou confirmar a Coordenação e determinar a duração de seu exer
 IV – decidir questões disciplinares graves e encaminhar à autoridade arquidiocesana aquelas que ultrapassem sua competência.
 
 ### Art. 6º
-O grupo contará com Coordenador e, conforme a necessidade, Vice-coordenador, formadores e auxiliares para escalas e outras atividades.
+A Pastoral contará com Coordenador e, conforme a necessidade, Vice-coordenador, formadores e auxiliares para escalas e outras atividades.
 
 Compete à Coordenação:
 
@@ -141,7 +141,7 @@ II – ser tratados e corrigidos com respeito, sem humilhação, discriminação
 
 III – apresentar dúvidas, justificar impedimentos e ser ouvidos nos procedimentos disciplinares;
 
-IV – contar, quando menores, com a participação dos pais ou responsáveis nas questões importantes relativas ao grupo.
+IV – contar, quando menores, com a participação dos pais ou responsáveis nas questões importantes relativas à Pastoral.
 
 ### Art. 13
 São deveres dos membros:
@@ -255,7 +255,7 @@ A aquisição e conservação das vestes do acólito são de sua responsabilidad
 
 §4º Sempre que algum servidor necessitar de orientação ou auxílio para observar estas disposições, a Coordenação o acolherá com respeito e fraternidade e, quando se tratar de menor de idade, dialogará também com seus pais ou responsáveis, considerando as circunstâncias pessoais, de saúde ou financeiras.
 
-§5º Nenhum membro será excluído do grupo unicamente por não possuir a veste ou o calçado indicados. A Coordenação, em diálogo com a família e a Paróquia, buscará uma solução fraterna e adequada.
+§5º Nenhum membro será excluído da Pastoral unicamente por não possuir a veste ou o calçado indicados. A Coordenação, em diálogo com a família e a Paróquia, buscará uma solução fraterna e adequada.
 
 §6º As vestes serão utilizadas com respeito e cuidado, de maneira compatível com sua finalidade litúrgica.
 
@@ -321,7 +321,7 @@ Toda suspeita ou situação de violência, abuso ou perigo será acolhida com se
 
 §4º Quando aplicáveis ao caso, serão observadas as disposições de *Vos estis lux mundi*.
 
-**Referências:** *Vos estis lux mundi*, de 25 de março de 2023, arts. 1º-5º e 20, dentro de seu âmbito de aplicação; canal arquidiocesano “Tutela dos Fiéis”. Os protocolos locais aplicáveis deverão ser obtidos junto à Arquidiocese; as medidas preventivas deste capítulo constituem também regras internas do grupo.
+**Referências:** *Vos estis lux mundi*, de 25 de março de 2023, arts. 1º-5º e 20, dentro de seu âmbito de aplicação; canal arquidiocesano “Tutela dos Fiéis”. Os protocolos locais aplicáveis deverão ser obtidos junto à Arquidiocese; as medidas preventivas deste capítulo constituem também regras internas da Pastoral.
 
 ---
 
@@ -333,7 +333,7 @@ As faltas serão avaliadas conforme sua gravidade e circunstâncias, considerand
 
 I – **leves:** atrasos ocasionais injustificados, conversas excessivas, distração reiterada, uso indevido de celular e pequenos descuidos com vestes ou materiais;
 
-II – **moderadas:** ausências reiteradas sem aviso, falta injustificada às formações obrigatórias, desobediência consciente, desrespeito, brincadeiras perigosas, uso inadequado das vestes, exposição indevida do grupo em redes sociais e reincidência em faltas leves;
+II – **moderadas:** ausências reiteradas sem aviso, falta injustificada às formações obrigatórias, desobediência consciente, desrespeito, brincadeiras perigosas, uso inadequado das vestes, exposição indevida da Pastoral em redes sociais e reincidência em faltas leves;
 
 III – **graves:** agressão, ameaça grave, bullying grave ou persistente, assédio, furto, dano intencional, grave irreverência deliberada contra a Eucaristia, profanação, conduta abusiva, retaliação, exposição deliberada de alguém a perigo, porte ou uso de substâncias ilícitas nas atividades ou comparecimento sob efeito de substâncias que prejudiquem a segurança, além de conduta gravemente incompatível com o serviço, devidamente apurada.
 
@@ -348,7 +348,7 @@ II – formação adicional ou mudança temporária de função;
 
 III – retirada da escala ou suspensão temporária do serviço, com retorno condicionado à formação quando necessário;
 
-IV – desligamento do grupo.
+IV – desligamento da Pastoral.
 
 §1º A escolha considerará idade, maturidade, intenção, consequências, reincidência, reconhecimento do erro e segurança das pessoas. Não será necessário seguir todas as medidas em sequência quando a gravidade exigir providência imediata.
 
@@ -361,12 +361,12 @@ Antes de medida disciplinar grave, nas situações ordinárias, os fatos serão 
 Havendo risco à segurança, poderá ser determinado afastamento cautelar imediato enquanto o caso é encaminhado e analisado. Essa medida não constitui declaração antecipada de culpa.
 
 ### Art. 36
-O desligamento definitivo do grupo será decidido pelo Pároco após análise da situação. Quem discordar de medida aplicada pela Coordenação poderá apresentar a questão ao Pároco.
+O desligamento definitivo da Pastoral será decidido pelo Pároco após análise da situação. Quem discordar de medida aplicada pela Coordenação poderá apresentar a questão ao Pároco.
 
 ### Art. 37
 As medidas deste Estatuto são internas e pastorais, não constituindo penas canônicas. A suspensão do serviço não implica exclusão da vida cristã ou proibição de participar da Santa Missa.
 
-Parágrafo único. Para o acólito instituído, a suspensão ou destituição do Ministério do Acolitato dependerá do processo administrativo e da decisão do Arcebispo previstos no Decreto Arquidiocesano nº 148/2022, com direito de defesa. Medidas paroquiais poderão restringir sua participação no grupo ou no serviço local.
+Parágrafo único. Para o acólito instituído, a suspensão ou destituição do Ministério do Acolitato dependerá do processo administrativo e da decisão do Arcebispo previstos no Decreto Arquidiocesano nº 148/2022, com direito de defesa. Medidas paroquiais poderão restringir sua participação na Pastoral ou no serviço local.
 
 **Referência:** Decreto Arquidiocesano nº 148/2022, art. 5º, com remissão ao CIC, cân. 1720, quanto à suspensão e destituição do ministério instituído. A classificação das faltas e as medidas internas são disposições paroquiais.
 
@@ -383,20 +383,20 @@ Parágrafo único. Após afastamento prolongado, poderá ser solicitada atualiza
 ---
 
 # CAPÍTULO XII
-## DA COMUNICAÇÃO E DOS BENS DO GRUPO
+## DA COMUNICAÇÃO E DOS BENS DA PASTORAL
 
 ### Art. 39
-Os canais oficiais do grupo deverão ser utilizados com respeito. É vedada a publicação, sem autorização, de documentos confidenciais, dados pessoais, informações disciplinares, fotografias inadequadas de espaços ou objetos restritos e imagens que exponham menores contrariamente às normas paroquiais ou arquidiocesanas.
+Os canais oficiais da Pastoral deverão ser utilizados com respeito. É vedada a publicação, sem autorização, de documentos confidenciais, dados pessoais, informações disciplinares, fotografias inadequadas de espaços ou objetos restritos e imagens que exponham menores contrariamente às normas paroquiais ou arquidiocesanas.
 
 §1º Fotografias e vídeos de menores somente poderão ser divulgados com autorização de seus pais ou responsáveis, respeitando-se também eventual recusa ou retirada da autorização.
 
-§2º Os grupos digitais envolvendo menores observarão as normas de proteção e comunicação da Paróquia e da Arquidiocese.
+§2º Os canais digitais envolvendo menores observarão as normas de proteção e comunicação da Paróquia e da Arquidiocese.
 
 ### Art. 40
 Os materiais da Paróquia serão utilizados para finalidade legítima. Nenhum membro poderá retirar vestes, livros ou objetos sem autorização.
 
 ### Art. 41
-Arrecadações em nome do grupo dependerão de conhecimento e autorização do Pároco. Os recursos serão administrados conforme as normas financeiras da Paróquia.
+Arrecadações em nome da Pastoral dependerão de conhecimento e autorização do Pároco. Os recursos serão administrados conforme as normas financeiras da Paróquia.
 
 ---
 
@@ -412,7 +412,7 @@ Os casos omissos serão resolvidos pelo Pároco dentro de sua competência e enc
 ### Art. 44
 Todos os membros deverão ter acesso ao Estatuto. Recomenda-se que os pais ou responsáveis pelos menores conheçam suas principais normas.
 
-Parágrafo único. No ingresso no grupo, o servidor e, quando menor de idade, seus pais ou responsáveis assinarão termo de compromisso próprio.
+Parágrafo único. No ingresso na Pastoral, o servidor e, quando menor de idade, seus pais ou responsáveis assinarão termo de compromisso próprio.
 
 ### Art. 45
 Este Estatuto entrará em vigor após aprovação do Pároco.

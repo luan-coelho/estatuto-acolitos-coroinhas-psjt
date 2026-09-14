@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "title": "Pastoral dos Acólitos e Coroinhas — Paróquia São Judas Tadeu",
+  "description": "Estatuto e Regimento Interno da Pastoral dos Acólitos e Coroinhas da Paróquia São Judas Tadeu, em Palmas, Tocantins.",
+  "locale": {
+    "label": "Português do Brasil",
+    "lang": "pt-BR"
+  },
+  "documents": [
+    {
+      "source": "estatuto.md",
+      "destination": "index.md",
+      "slug": "",
+      "title": "Estatuto e Regimento Interno",
+      "sidebarLabel": "Estatuto"
+    }
+  ]
+}

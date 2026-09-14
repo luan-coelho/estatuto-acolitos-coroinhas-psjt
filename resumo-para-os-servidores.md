@@ -15,4 +15,4 @@ Este resumo apresenta os principais compromissos dos coroinhas e acólitos. Em c
 10. Não divulgar fotografias, vídeos, dados pessoais ou assuntos reservados sem autorização.
 11. Conversar com a Coordenação quando precisar de ajuda com veste ou calçado. Ninguém deverá sentir vergonha ou ser excluído por questões materiais.
 
-Este resumo não substitui o Estatuto e Regimento Interno do grupo.
+Este resumo não substitui o Estatuto e Regimento Interno da Pastoral.

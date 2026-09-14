@@ -1,0 +1,15 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+
+const frontmatter = {
+  title: 'Página não encontrada',
+  description: 'A página solicitada não foi encontrada.',
+  template: 'splash' as const,
+  pagefind: false,
+};
+---
+
+<StarlightPage {frontmatter} hasSidebar={false}>
+  <p>O endereço informado não corresponde a uma página deste portal.</p>
+  <p><a href="/">Voltar ao Estatuto</a></p>
+</StarlightPage>
