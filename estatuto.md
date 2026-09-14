@@ -55,7 +55,7 @@ V – **Cerimoniário ou Mestre de Cerimônias:** acólito instituído ou tempor
 
 §1º A investidura do acólito temporário não equivale à instituição estável nem dispensa a formação e a legítima designação para cada função.
 
-§2º A expressão “servidores do altar” compreende, neste Estatuto, os coroinhas e acólitos temporários ou investidos, salvo indicação contrária.
+§2º A expressão “servidores do altar” compreende, neste Estatuto, os coroinhas, os acólitos temporários ou investidos e os acólitos instituídos, salvo indicação contrária.
 
 ### Art. 5º
 O grupo está sob a autoridade pastoral do Pároco, a quem compete:
@@ -192,7 +192,7 @@ A idade, a experiência ou o tempo de serviço não conferem automaticamente as 
 Parágrafo único. A purificação litúrgica dos vasos sagrados compete ao sacerdote, ao diácono ou ao acólito instituído. Acólitos temporários ou investidos e coroinhas não deverão realizá-la, podendo colaborar na organização material dos objetos após sua purificação.
 
 ### Art. 18
-O Ministro Extraordinário da Sagrada Comunhão exerce esse serviço por instituição ou legítima designação, nos casos previstos pela disciplina da Igreja.
+O ministro extraordinário da Sagrada Comunhão é o acólito instituído ou outro fiel legitimamente designado para esse serviço, nos casos previstos pela disciplina da Igreja.
 
 Parágrafo único. Essa condição, por si só, não lhe confere outras funções litúrgicas. Na ausência de servidores e havendo necessidade, poderá auxiliar em tarefas permitidas aos ministros leigos, desde que preparado e designado, respeitadas as funções reservadas.
 
@@ -255,7 +255,9 @@ A aquisição e conservação das vestes do acólito são de sua responsabilidad
 
 §4º Sempre que algum servidor necessitar de orientação ou auxílio para observar estas disposições, a Coordenação o acolherá com respeito e fraternidade e, quando se tratar de menor de idade, dialogará também com seus pais ou responsáveis, considerando as circunstâncias pessoais, de saúde ou financeiras.
 
-§5º As vestes serão utilizadas com respeito e cuidado, de maneira compatível com sua finalidade litúrgica.
+§5º Nenhum membro será excluído do grupo unicamente por não possuir a veste ou o calçado indicados. A Coordenação, em diálogo com a família e a Paróquia, buscará uma solução fraterna e adequada.
+
+§6º As vestes serão utilizadas com respeito e cuidado, de maneira compatível com sua finalidade litúrgica.
 
 **Referências:** Decreto Arquidiocesano nº 148/2022, arts. 1º, alínea “d”, e 6º; IGMR 119 e 335-339; *Redemptionis Sacramentum*, n. 153.
 
@@ -309,13 +311,15 @@ IV – manter comportamento físico e verbal adequado, sem castigos físicos ou 
 V – comunicar imediatamente situações graves.
 
 ### Art. 31
-Suspeitas de abuso ou violência serão imediatamente comunicadas ao Pároco e encaminhadas conforme os protocolos arquidiocesanos, as normas eclesiásticas e a legislação civil aplicável.
+Toda suspeita ou situação de violência, abuso ou perigo será acolhida com seriedade, discrição e cuidado e comunicada sem demora ao Pároco e aos responsáveis competentes, para que a pessoa receba proteção e cuidado, conforme os protocolos arquidiocesanos, as normas eclesiásticas e a legislação civil aplicável.
 
-§1º Esses casos não serão tratados apenas como infrações disciplinares internas. A Coordenação não realizará investigação paralela que substitua a atuação das autoridades competentes.
+§1º Quando a situação envolver o Pároco ou outra pessoa que normalmente receberia a comunicação, ela poderá ser encaminhada diretamente à Arquidiocese ou às autoridades competentes.
 
-§2º É proibido pressionar, ameaçar ou retaliar quem comunique de boa-fé possível abuso.
+§2º Esses casos não serão tratados apenas como infrações disciplinares internas. A Coordenação não realizará investigação paralela que substitua a atuação das autoridades competentes.
 
-§3º Quando aplicáveis ao caso, serão observadas as disposições de *Vos estis lux mundi*.
+§3º É proibido pressionar, ameaçar ou retaliar quem comunique de boa-fé possível abuso.
+
+§4º Quando aplicáveis ao caso, serão observadas as disposições de *Vos estis lux mundi*.
 
 **Referências:** *Vos estis lux mundi*, de 25 de março de 2023, arts. 1º-5º e 20, dentro de seu âmbito de aplicação; canal arquidiocesano “Tutela dos Fiéis”. Os protocolos locais aplicáveis deverão ser obtidos junto à Arquidiocese; as medidas preventivas deste capítulo constituem também regras internas do grupo.
 
@@ -384,7 +388,9 @@ Parágrafo único. Após afastamento prolongado, poderá ser solicitada atualiza
 ### Art. 39
 Os canais oficiais do grupo deverão ser utilizados com respeito. É vedada a publicação, sem autorização, de documentos confidenciais, dados pessoais, informações disciplinares, fotografias inadequadas de espaços ou objetos restritos e imagens que exponham menores contrariamente às normas paroquiais ou arquidiocesanas.
 
-Parágrafo único. Os grupos digitais envolvendo menores observarão as normas de proteção e comunicação da Paróquia e da Arquidiocese.
+§1º Fotografias e vídeos de menores somente poderão ser divulgados com autorização de seus pais ou responsáveis, respeitando-se também eventual recusa ou retirada da autorização.
+
+§2º Os grupos digitais envolvendo menores observarão as normas de proteção e comunicação da Paróquia e da Arquidiocese.
 
 ### Art. 40
 Os materiais da Paróquia serão utilizados para finalidade legítima. Nenhum membro poderá retirar vestes, livros ou objetos sem autorização.
@@ -406,6 +412,8 @@ Os casos omissos serão resolvidos pelo Pároco dentro de sua competência e enc
 ### Art. 44
 Todos os membros deverão ter acesso ao Estatuto. Recomenda-se que os pais ou responsáveis pelos menores conheçam suas principais normas.
 
+Parágrafo único. No ingresso no grupo, o servidor e, quando menor de idade, seus pais ou responsáveis assinarão termo de compromisso próprio.
+
 ### Art. 45
 Este Estatuto entrará em vigor após aprovação do Pároco.
 
@@ -425,23 +433,6 @@ Este Estatuto entrará em vigor após aprovação do Pároco.
 
 ---
 
-# TERMO DE COMPROMISSO DO SERVIDOR
-
-Eu, _________________________________________________, declaro que conheço este Estatuto e me comprometo a observá-lo, exercendo meu serviço com fé, respeito, pontualidade, responsabilidade e espírito de comunhão.
-
-**Local e data:** ____________________________________
-
-**Assinatura do servidor:**  
-____________________________________________________
-
-**Assinatura do responsável, quando menor:**  
-____________________________________________________
-
-**Coordenação:**  
-____________________________________________________
-
----
-
 # APROVAÇÃO PAROQUIAL
 
 Aprovo o presente **Estatuto e Regimento Interno dos Acólitos e Coroinhas da Paróquia São Judas Tadeu**, observadas as normas universais e particulares da Igreja.
@@ -455,4 +446,8 @@ ________________________________________
 Coordenador dos Acólitos e Coroinhas
 
 ________________________________________  
+**______________________________________**
+Coordenadora dos Acólitos e Coroinhas
+
+________________________________________
 **Local e data**
