@@ -245,9 +245,17 @@ III – **Acólito na função de cerimoniário:** poderá usar, nessa celebraç
 §2º É vedado aos servidores leigos utilizar vestes próprias do sacerdote ou do diácono, ou semelhantes a essas vestes, conforme *Redemptionis Sacramentum*, n. 153.
 
 ### Art. 23
-A aquisição e conservação das vestes do acólito são de sua responsabilidade. Todo servidor deverá manter a veste limpa, apresentar-se com higiene adequada, utilizar calçado seguro e discreto e devolver corretamente as peças pertencentes à Paróquia.
+A aquisição e conservação das vestes do acólito são de sua responsabilidade. Cada servidor cuidará com zelo de sua apresentação e da veste que utiliza, conservando-a em boas condições e devolvendo corretamente as peças pertencentes à Paróquia.
 
-Parágrafo único. É vedado utilizar as vestes para brincadeiras ou situações incompatíveis com sua finalidade.
+§1º Tendo como princípio fundamental o respeito à dignidade de cada pessoa e, igualmente, o cuidado com a dignidade do serviço litúrgico, meninos e meninas usarão calçados de aparência discreta e firmes nos pés, que lhes permitam caminhar com segurança e tranquilidade durante as procissões e os demais movimentos no presbitério. São adequados, por exemplo, sapato social, mocassim, sapatilha fechada e tênis de modelo simples, dando-se preferência às cores preta, marrom-escura, azul-marinho ou cinza-escura.
+
+§2º Para favorecer a segurança e a harmonia do conjunto, não serão usados chinelos, sandálias abertas, tamancos, calçados de salto alto ou plataforma, nem modelos com luzes, rodas, sons ou enfeites grandes. Serão evitadas cores fluorescentes ou muito chamativas, como verde-limão, amarelo-neon, laranja-neon e rosa-neon, bem como acabamentos excessivamente brilhantes, metalizados ou com estampas multicoloridas.
+
+§3º Durante o serviço, quem tiver cabelos compridos os usará presos, em coque, trança, rabo de cavalo ou de outra forma semelhante, favorecendo a segurança, o conforto e a concentração. Esta orientação será aplicada igualmente a meninos e meninas.
+
+§4º Sempre que algum servidor necessitar de orientação ou auxílio para observar estas disposições, a Coordenação o acolherá com respeito e fraternidade e, quando se tratar de menor de idade, dialogará também com seus pais ou responsáveis, considerando as circunstâncias pessoais, de saúde ou financeiras.
+
+§5º As vestes serão utilizadas com respeito e cuidado, de maneira compatível com sua finalidade litúrgica.
 
 **Referências:** Decreto Arquidiocesano nº 148/2022, arts. 1º, alínea “d”, e 6º; IGMR 119 e 335-339; *Redemptionis Sacramentum*, n. 153.
 
