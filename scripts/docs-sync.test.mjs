@@ -32,9 +32,10 @@ describe('sincronização do estatuto', () => {
 
   test('gera uma hierarquia semântica sem título h1 no corpo', () => {
     expect(transformed).not.toMatch(/^#\s+/mu);
-    expect(transformed.match(/^## CAPÍTULO\s+/gmu)).toHaveLength(13);
-    expect(transformed.match(/^### Art\.\s+/gmu)).toHaveLength(45);
-    expect(transformed).toContain('## CAPÍTULO I — DA FINALIDADE E DAS NORMAS APLICÁVEIS');
+    expect(transformed.match(/^## CAPÍTULO\s+/gmu)).toHaveLength(7);
+    expect([...transformed.matchAll(/^### Art\. (\d+)º?$/gmu)].map(([, number]) => Number(number)))
+      .toEqual(Array.from({ length: 20 }, (_, index) => index + 1));
+    expect(transformed).toContain('## CAPÍTULO I — DA FINALIDADE E DA ORGANIZAÇÃO');
     expect(transformed).toContain('## APROVAÇÃO PAROQUIAL');
   });
 
@@ -44,7 +45,7 @@ describe('sincronização do estatuto', () => {
 
     expect(nonHeadingLines(generatedBeforeSignatures)).toEqual(nonHeadingLines(sourceBeforeSignatures));
     expect(transformed.match(/class="approval-field(?:\s|"|--)/gu)).toHaveLength(4);
-    expect(transformed).toContain('Coordenadora dos Acólitos e Coroinhas');
+    expect(transformed.match(/Pela Coordenação dos Acólitos e Coroinhas/gu)).toHaveLength(2);
     expect(transformed).toContain('Local e data');
   });
 });

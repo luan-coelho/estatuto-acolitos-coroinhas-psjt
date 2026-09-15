@@ -3,13 +3,13 @@
 
 Este resumo apresenta os principais compromissos dos coroinhas e acólitos. Em caso de dúvida, o servidor poderá conversar com a Coordenação ou com o Pároco.
 
-1. Servir ao altar com fé, alegria, respeito e espírito de comunhão.
+1. Participar da Santa Missa, rezar, examinar a consciência e buscar regularmente a Confissão, conforme sua iniciação cristã. Servir em estado de graça; tendo consciência de pecado grave, buscar a absolvição antes de retornar ao serviço, sem obrigação de revelar pecados à Coordenação.
 2. Participar das formações, cumprir as escalas e avisar quando não puder comparecer.
 3. Chegar com antecedência para se preparar com calma e ajudar na organização.
 4. Cumprir somente a função recebida e seguir as orientações dos responsáveis pela celebração.
-5. Manter o silêncio, a atenção e o recolhimento, deixando o celular guardado durante o serviço.
+5. Manter a atenção e o recolhimento, sem conversas alheias ao serviço. Usar celular somente por necessidade autorizada.
 6. Cuidar das vestes, dos livros, dos objetos litúrgicos e dos espaços da igreja.
-7. Usar calçado discreto e seguro e, quando tiver cabelos compridos, mantê-los presos durante o serviço.
+7. Usar tênis todo preto, sapato social preto ou sapatilha preta fechada. As meninas com cabelos compridos deverão prendê-los em coque, trança ou rabo de cavalo durante o serviço.
 8. Tratar todas as pessoas com dignidade e fraternidade, sem apelidos humilhantes, bullying, discriminação, agressão ou assédio.
 9. Procurar um adulto de confiança quando se sentir em perigo, desconfortável ou desrespeitado, ou quando perceber que alguém precisa de ajuda.
 10. Não divulgar fotografias, vídeos, dados pessoais ou assuntos reservados sem autorização.

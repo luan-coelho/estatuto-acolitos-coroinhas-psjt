@@ -7,132 +7,52 @@
 
 ---
 
-# PREÂMBULO
-
-> “Servi ao Senhor com alegria.” (Sl 100,2)
-
-O presente Estatuto organiza a formação, o serviço litúrgico e a convivência dos Acólitos e Coroinhas da Paróquia São Judas Tadeu, para que exerçam seu serviço com fé, responsabilidade e espírito de comunhão.
-
----
-
 # CAPÍTULO I
-## DA FINALIDADE E DAS NORMAS APLICÁVEIS
+## DA FINALIDADE E DA ORGANIZAÇÃO
 
 ### Art. 1º
-A **Pastoral dos Acólitos e Coroinhas da Paróquia São Judas Tadeu** integra a vida pastoral da Paróquia e tem por finalidade servir nas celebrações, promover formação litúrgica e espiritual, cultivar a fraternidade e incentivar o discernimento vocacional.
+A **Pastoral dos Acólitos e Coroinhas da Paróquia São Judas Tadeu** serve nas celebrações, promove formação litúrgica e espiritual e cultiva a fraternidade. O serviço do altar não é privilégio pessoal nem direito adquirido.
 
-Parágrafo único. O serviço do altar não constitui privilégio pessoal nem direito adquirido.
+Parágrafo único. Este Estatuto observa as normas universais da Igreja, os livros litúrgicos, as determinações da CNBB e da Arquidiocese de Palmas, especialmente o Decreto Prot. CH – 148/2022 – DG sobre o Acolitato, aqui referido como Decreto Arquidiocesano nº 148/2022, e as legítimas determinações do Pároco.
 
 ### Art. 2º
-Este Estatuto subordina-se às normas universais da Igreja, ao Código de Direito Canônico, aos livros litúrgicos aprovados, às determinações da Santa Sé, às normas da CNBB e da Arquidiocese de Palmas e às legítimas determinações do Pároco, segundo a competência de cada autoridade.
+São membros da Pastoral:
 
-§1º Aplica-se especialmente o **Decreto Prot. CH – 148/2022 – DG, de 20 de outubro de 2022, sobre o Acolitato para os fiéis leigos e leigas na Arquidiocese de Palmas**, referido neste Estatuto como Decreto Arquidiocesano nº 148/2022.
+I – **Aspirante:** pessoa em formação inicial, ainda não admitida às escalas;
 
-§2º Nenhum costume ou regra interna poderá prevalecer contra norma superior aplicável.
+II – **Coroinha:** criança ou adolescente que auxilia no serviço do altar;
+
+III – **Acólito temporário ou investido:** fiel leigo ou leiga que exerce transitoriamente funções do acolitato, inclusive quando menor;
+
+IV – **Acólito instituído:** fiel leigo ou leiga maior de idade, instituído de modo estável no Ministério do Acolitato;
+
+V – **Cerimoniário:** acólito instituído ou temporário que exerce essa função em uma celebração.
+
+Parágrafo único. Neste Estatuto, “servidores do altar” compreende coroinhas e acólitos.
 
 ### Art. 3º
-Cada servidor exercerá somente as funções que lhe competem. Nenhum membro poderá, por iniciativa própria, alterar textos, gestos ou ritos, omitir elementos exigidos ou assumir funções reservadas a outro ministro.
+A Pastoral está sob a autoridade do Pároco, que nomeia ou confirma a Coordenação, acompanha o serviço litúrgico e decide os casos graves dentro de sua competência.
 
-**Referências:** *Sacrosanctum Concilium*, nn. 22 e 28-29; CIC, cân. 838, na redação de *Magnum Principium*, e 846 §1; IGMR 91.
+§1º A Coordenação prepara e acompanha os servidores, mantém os registros necessários e comunica situações graves ao Pároco.
+
+§2º O Pároco definirá a composição da Coordenação, que poderá contar com formadores e auxiliares conforme a necessidade.
 
 ---
 
 # CAPÍTULO II
-## DOS MEMBROS E DA ORGANIZAÇÃO
+## DO INGRESSO, DA FORMAÇÃO E DA VIDA CRISTÃ
 
 ### Art. 4º
-São adotadas as seguintes denominações:
+Pode solicitar ingresso quem seja católico, tenha completado 8 anos ou recebido a Primeira Comunhão, participe da comunidade, deseje servir e aceite a formação e este Estatuto. O ingresso de menor exige autorização dos pais ou responsáveis; a admissão observará a maturidade do candidato, as normas arquidiocesanas e a avaliação pastoral do Pároco.
 
-I – **Aspirante:** pessoa em formação inicial, ainda não admitida regularmente às escalas;
+§1º A entrada nas escalas exige formação inicial, idoneidade e preparação prática. A Coordenação poderá acompanhar o aspirante antes da admissão definitiva.
 
-II – **Coroinha:** criança ou adolescente que serve ao altar, auxiliando o acólito ou diretamente o presidente da celebração;
-
-III – **Acólito temporário ou investido:** fiel leigo ou leiga que exerce transitoriamente as funções do acolitato, podendo ser menor de idade;
-
-IV – **Acólito instituído:** fiel leigo ou leiga, maior de idade, que recebeu de forma estável o Ministério do Acolitato mediante o rito estabelecido pela Igreja;
-
-V – **Cerimoniário ou Mestre de Cerimônias:** acólito instituído ou temporário que exerce a função de mestre de cerimônias em uma celebração.
-
-§1º A investidura do acólito temporário não equivale à instituição estável nem dispensa a formação e a legítima designação para cada função.
-
-§2º A expressão “servidores do altar” compreende, neste Estatuto, os coroinhas, os acólitos temporários ou investidos e os acólitos instituídos, salvo indicação contrária.
+§2º A admissão e a investidura temporária não são sacramentos nem instituição estável. Nas celebrações, usar-se-ão somente ritos ou bênçãos legitimamente aprovados.
 
 ### Art. 5º
-A Pastoral está sob a autoridade pastoral do Pároco, a quem compete:
-
-I – acompanhar a Pastoral e zelar pela observância das normas litúrgicas;
-
-II – aprovar o Estatuto e suas alterações;
-
-III – nomear ou confirmar a Coordenação e determinar a duração de seu exercício;
-
-IV – decidir questões disciplinares graves e encaminhar à autoridade arquidiocesana aquelas que ultrapassem sua competência.
+A formação inicial e permanente abrangerá vida espiritual, doutrina cristã e discernimento vocacional, Liturgia e sacramentos, funções e objetos litúrgicos, prática e segurança no serviço e proteção de menores e pessoas vulneráveis. A Coordenação organizará os ensaios; todos participarão das formações obrigatórias, inclusive após a admissão.
 
 ### Art. 6º
-A Pastoral contará com Coordenador e, conforme a necessidade, Vice-coordenador, formadores e auxiliares para escalas e outras atividades.
-
-Compete à Coordenação:
-
-I – cumprir este Estatuto e manter comunicação com o Pároco;
-
-II – organizar escalas, formações e ensaios e acompanhar os aspirantes;
-
-III – distribuir as funções conforme a preparação dos servidores;
-
-IV – cuidar do material e manter os registros administrativos necessários, respeitando a proteção de dados pessoais;
-
-V – promover a convivência fraterna, orientar os membros e comunicar situações graves ao Pároco.
-
-### Art. 7º
-O cerimoniário deverá possuir adequada formação litúrgica e auxiliar na organização das celebrações, em comunhão com o celebrante, o diácono e a Coordenação.
-
-Parágrafo único. A função de cerimoniário não constitui grau do Sacramento da Ordem nem ministério instituído distinto.
-
-**Referências:** Decreto Arquidiocesano nº 148/2022, art. 1º; IGMR 98, 100 e 106-107; CIC, cân. 230, com §1 na redação de *Spiritus Domini*, e 528 §2.
-
----
-
-# CAPÍTULO III
-## DA ADMISSÃO E DA FORMAÇÃO
-
-### Art. 8º
-Poderá solicitar ingresso quem seja católico, participe da vida e da formação cristã da comunidade, manifeste desejo de servir, tenha maturidade compatível com sua idade e se comprometa com a formação e com este Estatuto.
-
-§1º O ingresso de menor dependerá de autorização dos pais ou responsáveis.
-
-§2º A idade mínima será definida pelo Pároco, segundo as normas arquidiocesanas e a realidade pastoral da Paróquia.
-
-### Art. 9º
-A admissão regular às escalas depende de formação inicial, idoneidade e preparação prática. A Coordenação poderá exigir período acompanhado antes da admissão definitiva.
-
-### Art. 10
-A formação inicial e permanente abrangerá:
-
-I – espiritualidade, doutrina cristã e discernimento vocacional;
-
-II – sentido e estrutura da Liturgia, sacramentos e Ano Litúrgico;
-
-III – funções dos ministros, livros, espaços, objetos e vestes litúrgicas;
-
-IV – serviço prático, gestos, posturas e segurança no manuseio dos materiais;
-
-V – convivência, proteção de menores e pessoas vulneráveis.
-
-Parágrafo único. A Coordenação organizará o programa e os ensaios necessários. Todos deverão participar das formações obrigatórias, inclusive após a admissão.
-
-### Art. 11
-A admissão paroquial ao serviço do altar, inclusive a investidura do acólito temporário, observará as orientações arquidiocesanas e não se confunde com sacramento ou instituição estável no Ministério do Acolitato.
-
-Parágrafo único. Na celebração de admissão somente poderão ser utilizados ritos ou bênçãos previstos nos livros litúrgicos ou legitimamente aprovados pela autoridade competente.
-
-**Referências:** Decreto Arquidiocesano nº 148/2022, art. 1º; CIC, cân. 230, com §1 na redação de *Spiritus Domini*, 231 §1 e 846 §1; *Sacrosanctum Concilium*, n. 29; *Redemptionis Sacramentum*, nn. 46-47; IGMR 107.
-
----
-
-# CAPÍTULO IV
-## DOS DIREITOS, DEVERES E DA VIDA ESPIRITUAL
-
-### Art. 12
 São direitos dos membros:
 
 I – receber formação, orientação sobre suas funções e informação antecipada sobre as escalas;
@@ -143,38 +63,35 @@ III – apresentar dúvidas, justificar impedimentos e ser ouvidos nos procedime
 
 IV – contar, quando menores, com a participação dos pais ou responsáveis nas questões importantes relativas à Pastoral.
 
-### Art. 13
+### Art. 7º
 São deveres dos membros:
 
 I – cultivar vida cristã coerente, participar fielmente da Santa Missa e cumprir as formações e escalas;
 
-II – preparar-se para a função recebida e seguir as legítimas orientações dos responsáveis pela celebração;
+II – rezar, examinar a consciência, buscar regularmente a Confissão conforme sua etapa de iniciação cristã e servir ao altar em estado de graça; tendo consciência de pecado grave, procurar a absolvição antes de voltar ao serviço;
 
-III – tratar todos com caridade, preservar o recolhimento e evitar conversas e brincadeiras durante o serviço;
+III – preparar-se para a função recebida, seguir as orientações legítimas e manter o recolhimento, sem conversas, brincadeiras ou uso de celular durante o serviço, salvo necessidade autorizada;
 
-IV – cuidar das vestes, objetos e dependências da igreja;
+IV – tratar todos com respeito, cuidar das vestes e dos objetos e comunicar acidentes, danos ou situações graves.
 
-V – não utilizar celular durante o serviço, exceto por necessidade autorizada;
+§1º Cada servidor fará breve oração antes da celebração e, quando possível, após o serviço. Recomendam-se a leitura da Escritura, a devoção à Virgem Maria, a prática da caridade e a oração pelas vocações.
 
-VI – comunicar imediatamente acidentes, danos ou situações graves.
+§2º Ao comungar, quem já recebe a Eucaristia deverá fazê-lo com a devida disposição; tendo consciência de pecado grave, observará a disciplina da Igreja sobre Confissão antes da Comunhão.
 
-### Art. 14
-Recomendam-se a oração diária, a leitura da Sagrada Escritura, a recepção dos sacramentos segundo adequada disposição, a devoção à Santíssima Virgem Maria, o exemplo dos santos, a prática da caridade e a oração pelas vocações.
-
-Parágrafo único. Sempre que possível, os servidores realizarão breve oração antes e depois do serviço litúrgico.
+§3º A Coordenação incentivará a Confissão sem exigir revelação de pecados, comprovante ou explicação pública de ausência da escala. A exigência de estado de graça para servir é regra pastoral da Paróquia.
 
 ---
 
-# CAPÍTULO V
-## DAS FUNÇÕES E DOS LIMITES DO SERVIÇO LITÚRGICO
+# CAPÍTULO III
+## DO SERVIÇO LITÚRGICO E DO MINISTÉRIO INSTITUÍDO
 
-### Art. 15
-Aos servidores devidamente preparados e designados poderão ser confiados o transporte da cruz, velas, turíbulo e naveta; a apresentação dos dons; o auxílio com o Missal e no lavabo; a preparação da credência e do altar, nos limites permitidos aos ministros leigos; e outras tarefas auxiliares previstas nos livros litúrgicos.
+### Art. 8º
+Cada servidor exercerá apenas funções para as quais tenha sido preparado e designado, respeitando o sacerdote, o diácono e os demais ministros. Poderá transportar cruz, velas, turíbulo e naveta, apresentar os dons, auxiliar com o Missal e no lavabo e preparar objetos e espaços nos limites permitidos aos leigos. Ninguém alterará textos, gestos ou ritos por iniciativa própria.
 
-Parágrafo único. As funções deverão ser distribuídas entre os servidores preparados, respeitando as atribuições do sacerdote, do diácono, do acólito instituído e dos demais ministros.
+Parágrafo único. O cerimoniário deverá ter formação litúrgica adequada e atuar em comunhão com os responsáveis pela celebração; essa função não constitui ministério instituído distinto.
 
-### Art. 16
-O acólito instituído exerce as funções próprias previstas pela Igreja, especialmente:
+### Art. 9º
+O acólito instituído exerce as funções próprias previstas pela Igreja:
 
 I – servir ao altar, auxiliar o sacerdote e o diácono e preparar o altar e os vasos sagrados;
 
@@ -182,28 +99,14 @@ II – quando necessário, distribuir a Sagrada Comunhão como ministro extraord
 
 III – auxiliar na purificação dos vasos sagrados segundo as normas litúrgicas;
 
-IV – em circunstâncias extraordinárias, expor o Santíssimo Sacramento para adoração e fazer sua reposição, sem dar a bênção ao povo;
+IV – em circunstâncias extraordinárias, expor o Santíssimo Sacramento para adoração e repô-lo, sem dar a bênção ao povo.
 
-V – colaborar, quando necessário, na instrução dos servidores temporários do altar.
+Parágrafo único. Idade ou tempo de serviço não conferem essas funções. A purificação litúrgica dos vasos sagrados cabe ao sacerdote, ao diácono ou ao acólito instituído; coroinhas e acólitos temporários só poderão organizar os objetos após a purificação.
 
-### Art. 17
-A idade, a experiência ou o tempo de serviço não conferem automaticamente as funções próprias do acólito instituído.
+### Art. 10
+O ministro extraordinário da Sagrada Comunhão é o acólito instituído ou outro fiel legitimamente designado, nos casos previstos pela Igreja. Essa designação não confere outras funções; na falta de servidores, poderá auxiliar em tarefas permitidas aos leigos se estiver preparado e autorizado.
 
-Parágrafo único. A purificação litúrgica dos vasos sagrados compete ao sacerdote, ao diácono ou ao acólito instituído. Acólitos temporários ou investidos e coroinhas não deverão realizá-la, podendo colaborar na organização material dos objetos após sua purificação.
-
-### Art. 18
-O ministro extraordinário da Sagrada Comunhão é o acólito instituído ou outro fiel legitimamente designado para esse serviço, nos casos previstos pela disciplina da Igreja.
-
-Parágrafo único. Essa condição, por si só, não lhe confere outras funções litúrgicas. Na ausência de servidores e havendo necessidade, poderá auxiliar em tarefas permitidas aos ministros leigos, desde que preparado e designado, respeitadas as funções reservadas.
-
-**Referências:** IGMR 98, 100, 109, 139-140, 187-193 e 279; CIC, cân. 230, 910 e 943; *Redemptionis Sacramentum*, nn. 154-158; Decreto Arquidiocesano nº 148/2022, considerações iniciais.
-
----
-
-# CAPÍTULO VI
-## DA INSTITUIÇÃO NO MINISTÉRIO DO ACOLITATO
-
-### Art. 19
+### Art. 11
 Na Arquidiocese de Palmas, o candidato à instituição deverá:
 
 I – ter atingido a maioridade civil e demonstrar maturidade humana e vida cristã exemplar;
@@ -216,23 +119,16 @@ IV – contar com pelo menos cinco anos de serviço ao altar como coroinha, acó
 
 V – concluir o curso preparatório, cuja ementa, conteúdo e carga horária serão fornecidos pelo Setor Litúrgico-Sacramental da Arquidiocese.
 
-### Art. 20
-Cumpridos os requisitos, o candidato fará livremente pedido escrito ao Arcebispo, com consentimento do cônjuge se casado, a ser apresentado pelo Pároco ou Superior.
-
-Parágrafo único. Aceito o pedido, a instituição será realizada pelo Arcebispo segundo o rito estabelecido no Pontifical Romano.
-
-### Art. 21
-O ministério instituído é exercido de forma estável, sem necessidade de renovação, e não gera direito a sustento ou remuneração por parte da Igreja.
-
-**Referência:** Decreto Arquidiocesano nº 148/2022, arts. 2º-4º.
+### Art. 12
+O candidato fará pedido escrito e livre ao Arcebispo, apresentado pelo Pároco ou Superior, com consentimento do cônjuge se casado. Aceito o pedido, o Arcebispo o instituirá segundo o Pontifical Romano. O ministério é estável, não exige renovação e não gera direito a sustento ou remuneração da Igreja.
 
 ---
 
-# CAPÍTULO VII
-## DAS VESTES
+# CAPÍTULO IV
+## DAS VESTES E DA PREPARAÇÃO
 
-### Art. 22
-As vestes identificarão as funções litúrgicas, sem distinção em razão do gênero do fiel quando se tratar do mesmo ministério:
+### Art. 13
+As vestes identificarão as funções litúrgicas, sem distinção de gênero no mesmo ministério:
 
 I – **Coroinha:** túnica vermelha com sobrepeliz;
 
@@ -240,182 +136,103 @@ II – **Acólito instituído e, como padrão paroquial, acólito temporário:**
 
 III – **Acólito na função de cerimoniário:** poderá usar, nessa celebração, veste talar preta, com pala no pescoço, e sobrepeliz.
 
-§1º Outras vestes dependerão de aprovação nos termos do art. 6º, alínea “c”, do Decreto Arquidiocesano nº 148/2022, que prevê a atuação da Província Eclesiástica de Palmas e do Regional Norte 3 da CNBB.
+§1º Outras vestes exigem a aprovação prevista no art. 6º, alínea “c”, do Decreto Arquidiocesano nº 148/2022. Servidores leigos não usarão vestes próprias do sacerdote ou do diácono, nem semelhantes a elas.
 
-§2º É vedado aos servidores leigos utilizar vestes próprias do sacerdote ou do diácono, ou semelhantes a essas vestes, conforme *Redemptionis Sacramentum*, n. 153.
+### Art. 14
+Cada servidor cuidará de sua veste e devolverá as peças da Paróquia em boas condições. A aquisição e a conservação das vestes do acólito são de sua responsabilidade.
+
+§1º No serviço, serão usados somente tênis inteiramente preto, inclusive sola, cadarços e detalhes, sapato social preto ou sapatilha preta fechada, sempre firmes nos pés. Por respeito ao serviço litúrgico e à segurança dos servidores, não serão usados chinelos, sandálias abertas, tamancos, saltos altos, plataformas ou modelos com luzes, rodas ou sons.
+
+§2º As meninas com cabelos compridos os manterão presos em coque, trança ou rabo de cavalo.
+
+§3º Quem precisar de ajuda com veste ou calçado será acolhido pela Coordenação, em diálogo com a família quando menor. Ninguém será excluído da Pastoral apenas por não possuir esses itens; a Paróquia buscará solução adequada.
+
+### Art. 15
+A Coordenação fará as escalas; o servidor avisará antecipadamente suas indisponibilidades e auxiliará na busca de substituto preparado quando solicitado. Quem não estiver escalado só servirá com autorização do responsável pela celebração. Recomenda-se chegar 30 minutos antes das Missas dominicais, salvo orientação específica.
+
+§1º A equipe verificará livros e materiais antes da celebração. Celebrações especiais, incluindo o Tríduo Pascal, terão ensaio quando necessário, com funções distribuídas previamente.
+
+§2º Velas, carvão, fogo e turíbulo exigem treinamento e supervisão. Na sacristia, é proibido correr, fazer brincadeiras perigosas, usar fogo sem autorização e acessar armários ou áreas restritas sem permissão. O uso do incenso e dos demais elementos seguirá os livros litúrgicos.
+
+---
+
+# CAPÍTULO V
+## DA CONVIVÊNCIA, DA PROTEÇÃO E DA COMUNICAÇÃO
+
+### Art. 16
+São proibidos bullying, apelidos humilhantes, agressões, ameaças, discriminação, assédio, intimidação, chantagem, perseguição, exposição vexatória e retaliação contra quem relate de boa-fé uma situação grave. Os erros serão corrigidos com respeito e discrição, salvo perigo imediato ou grave irreverência.
+
+### Art. 17
+A Coordenação cumprirá os protocolos arquidiocesanos de proteção de menores e pessoas vulneráveis. Nas atividades com menores, informará horários e deslocamentos aos responsáveis, exigirá autorização para viagens, evitará isolamento de um adulto com um único menor em ambiente fechado e usará canais de comunicação transparentes. São proibidos castigos físicos ou humilhantes.
+
+### Art. 18
+Suspeita ou situação de violência, abuso ou perigo será acolhida com discrição e comunicada sem demora ao Pároco e às autoridades competentes, conforme os protocolos arquidiocesanos e a legislação civil. Se envolver quem normalmente receberia a comunicação, será encaminhada diretamente à Arquidiocese ou às autoridades competentes.
+
+Parágrafo único. Esses casos não serão resolvidos apenas por disciplina interna nem investigados paralelamente pela Coordenação. Aplicam-se as disposições de *Vos estis lux mundi* quando o caso estiver em seu âmbito.
+
+### Art. 19
+É vedada a divulgação não autorizada de dados pessoais, documentos reservados, informações disciplinares e imagens que exponham menores. A divulgação de fotografias e vídeos de menores exige autorização dos pais ou responsáveis, respeitada eventual recusa ou retirada. Os canais digitais seguirão os protocolos da Paróquia e da Arquidiocese.
+
+Parágrafo único. Vestes, livros e objetos da Paróquia não serão retirados sem autorização. Arrecadações em nome da Pastoral exigem autorização do Pároco e seguirão as normas financeiras paroquiais.
+
+---
+
+# CAPÍTULO VI
+## DAS FALTAS E DAS MEDIDAS
+
+### Art. 20
+As faltas serão classificadas conforme sua gravidade e circunstâncias:
+
+I – **leves:** atrasos sem justificativa, conversas ou uso de celular durante o serviço e pequenos descuidos com vestes ou materiais, sem dano ou risco relevante;
+
+II – **moderadas:** ausências reiteradas sem aviso, falta injustificada à formação obrigatória, descumprimento consciente de orientação, desrespeito a pessoas, brincadeiras que causem risco, uso inadequado das vestes e divulgação não autorizada de informações ou imagens da Pastoral;
+
+III – **graves:** agressão, ameaça grave, bullying grave ou persistente, assédio, furto, dano intencional, profanação ou grave irreverência deliberada contra a Eucaristia, retaliação contra quem comunique de boa-fé situação grave, exposição deliberada de alguém a perigo, porte ou uso de substâncias ilícitas nas atividades e comparecimento sob efeito de substâncias que comprometam a segurança.
+
+Parágrafo único. Situações de perigo e suspeitas de violência, abuso ou delito seguirão o art. 18, sem aguardar a conclusão do procedimento disciplinar.
+
+### Art. 21
+Confirmada a falta, será aplicada a medida correspondente:
+
+I – **primeira falta leve em 90 dias:** orientação reservada;
+
+II – **segunda falta leve em 90 dias:** advertência formal;
+
+III – **terceira ou posterior falta leve em 90 dias:** afastamento do serviço por 7 dias;
+
+IV – **primeira falta moderada em 90 dias:** afastamento do serviço por 14 dias;
+
+V – **segunda ou posterior falta moderada em 90 dias:** afastamento do serviço por 30 dias;
+
+VI – **falta grave:** desligamento definitivo da Pastoral, decidido pelo Pároco após a apuração.
+
+§1º As faltas leves e moderadas serão contadas separadamente, considerando-se os 90 dias corridos que incluem a data da nova falta. Condutas do mesmo episódio contarão como uma falta, na categoria de maior gravidade.
+
+§2º O afastamento começa na data da comunicação escrita da decisão, dura o número indicado de dias corridos e impede o serviço ao altar até o fim do prazo. Se houver risco à segurança, aplica-se também o art. 22.
+
+§3º São proibidas medidas humilhantes, degradantes, violentas, discriminatórias ou destinadas à exposição pública.
+
+### Art. 22
+Antes de qualquer medida definitiva, sem atrasar os encaminhamentos do art. 18, a Coordenação registrará a ocorrência e ouvirá o membro, oferecendo aos responsáveis de menor a oportunidade de serem ouvidos. A decisão escrita indicará os fatos, a classificação, as faltas consideradas, a medida e, se houver afastamento, suas datas de início e fim. Quem discordar de medida da Coordenação poderá recorrer ao Pároco.
+
+Parágrafo único. Se a permanência de membro sob apuração apresentar risco concreto à segurança, ele será afastado cautelarmente de imediato. O Pároco reavaliará o afastamento a cada 7 dias; o membro não retornará enquanto o risco persistir. Essa providência não declara culpa.
 
 ### Art. 23
-A aquisição e conservação das vestes do acólito são de sua responsabilidade. Cada servidor cuidará com zelo de sua apresentação e da veste que utiliza, conservando-a em boas condições e devolvendo corretamente as peças pertencentes à Paróquia.
-
-§1º Tendo como princípio fundamental o respeito à dignidade de cada pessoa e, igualmente, o cuidado com a dignidade do serviço litúrgico, meninos e meninas usarão calçados de aparência discreta e firmes nos pés, que lhes permitam caminhar com segurança e tranquilidade durante as procissões e os demais movimentos no presbitério. São adequados, por exemplo, sapato social, mocassim, sapatilha fechada e tênis de modelo simples, dando-se preferência às cores preta, marrom-escura, azul-marinho ou cinza-escura.
-
-§2º Para favorecer a segurança e a harmonia do conjunto, não serão usados chinelos, sandálias abertas, tamancos, calçados de salto alto ou plataforma, nem modelos com luzes, rodas, sons ou enfeites grandes. Serão evitadas cores fluorescentes ou muito chamativas, como verde-limão, amarelo-neon, laranja-neon e rosa-neon, bem como acabamentos excessivamente brilhantes, metalizados ou com estampas multicoloridas.
-
-§3º Durante o serviço, quem tiver cabelos compridos os usará presos, em coque, trança, rabo de cavalo ou de outra forma semelhante, favorecendo a segurança, o conforto e a concentração. Esta orientação será aplicada igualmente a meninos e meninas.
-
-§4º Sempre que algum servidor necessitar de orientação ou auxílio para observar estas disposições, a Coordenação o acolherá com respeito e fraternidade e, quando se tratar de menor de idade, dialogará também com seus pais ou responsáveis, considerando as circunstâncias pessoais, de saúde ou financeiras.
-
-§5º Nenhum membro será excluído da Pastoral unicamente por não possuir a veste ou o calçado indicados. A Coordenação, em diálogo com a família e a Paróquia, buscará uma solução fraterna e adequada.
-
-§6º As vestes serão utilizadas com respeito e cuidado, de maneira compatível com sua finalidade litúrgica.
-
-**Referências:** Decreto Arquidiocesano nº 148/2022, arts. 1º, alínea “d”, e 6º; IGMR 119 e 335-339; *Redemptionis Sacramentum*, n. 153.
+As medidas deste capítulo são internas e pastorais; não excluem o membro da vida cristã nem da Santa Missa. A suspensão ou destituição do Ministério do Acolitato instituído cabe ao Arcebispo, no processo e com direito de defesa previstos no Decreto Arquidiocesano nº 148/2022. A Paróquia poderá restringir apenas o serviço local.
 
 ---
 
-# CAPÍTULO VIII
-## DAS ESCALAS E DA PREPARAÇÃO DAS CELEBRAÇÕES
-
-### Art. 24
-A Coordenação elaborará as escalas. O servidor deverá informar antecipadamente suas indisponibilidades, avisar com antecedência razoável quando não puder comparecer e, quando solicitado, auxiliar na procura de substituto preparado.
-
-Parágrafo único. O servidor não escalado somente assumirá função com autorização do responsável pela celebração.
-
-### Art. 25
-Como orientação paroquial, recomenda-se a chegada pelo menos 30 minutos antes das Missas dominicais. A Coordenação poderá determinar antecedência específica para cada escala ou celebração.
-
-### Art. 26
-A equipe responsável verificará os livros, objetos e materiais necessários à celebração, observando o formulário e as rubricas próprias do dia.
-
-Parágrafo único. Celebrações especiais, particularmente a Semana Santa e o Tríduo Pascal, terão formação ou ensaio específico sempre que necessário, com distribuição prévia das funções.
-
-### Art. 27
-O manuseio de velas, carvão, fogo e turíbulo exige orientação prática, treinamento e supervisão adequados. O uso do incenso, da campainha e dos demais elementos seguirá os livros litúrgicos e as orientações legítimas dos responsáveis pela celebração.
-
-### Art. 28
-Na sacristia e nos demais espaços de preparação, é proibido correr, realizar brincadeiras perigosas, manusear objetos sem necessidade, usar fogo sem autorização ou acessar armários, documentos e áreas restritas sem permissão.
-
-**Referências litúrgicas:** IGMR 111, 117-120, 150 e 276-277. Horários, escalas e cuidados operacionais são regras paroquiais.
-
----
-
-# CAPÍTULO IX
-## DA CONVIVÊNCIA E DA PROTEÇÃO DOS MEMBROS
-
-### Art. 29
-Não serão admitidos bullying, apelidos humilhantes, agressões, ameaças, discriminação, assédio, intimidação, chantagem, perseguição, exposição vexatória ou retaliação contra quem comunique de boa-fé uma situação grave.
-
-Parágrafo único. Os erros serão corrigidos com respeito e, sempre que possível, reservadamente. Durante as celebrações, a correção será discreta, ressalvadas situações de perigo ou grave irreverência.
-
-### Art. 30
-A Coordenação cumprirá os protocolos arquidiocesanos de proteção de crianças, adolescentes e pessoas vulneráveis. Nas atividades com menores, deverá:
-
-I – informar os responsáveis sobre horários e atividades e observar sua autorização para viagens e deslocamentos;
-
-II – evitar isolamento desnecessário entre um adulto e um único menor em ambiente fechado;
-
-III – utilizar canais de comunicação transparentes e observar as normas sobre fotografias e divulgação de imagens;
-
-IV – manter comportamento físico e verbal adequado, sem castigos físicos ou humilhantes;
-
-V – comunicar imediatamente situações graves.
-
-### Art. 31
-Toda suspeita ou situação de violência, abuso ou perigo será acolhida com seriedade, discrição e cuidado e comunicada sem demora ao Pároco e aos responsáveis competentes, para que a pessoa receba proteção e cuidado, conforme os protocolos arquidiocesanos, as normas eclesiásticas e a legislação civil aplicável.
-
-§1º Quando a situação envolver o Pároco ou outra pessoa que normalmente receberia a comunicação, ela poderá ser encaminhada diretamente à Arquidiocese ou às autoridades competentes.
-
-§2º Esses casos não serão tratados apenas como infrações disciplinares internas. A Coordenação não realizará investigação paralela que substitua a atuação das autoridades competentes.
-
-§3º É proibido pressionar, ameaçar ou retaliar quem comunique de boa-fé possível abuso.
-
-§4º Quando aplicáveis ao caso, serão observadas as disposições de *Vos estis lux mundi*.
-
-**Referências:** *Vos estis lux mundi*, de 25 de março de 2023, arts. 1º-5º e 20, dentro de seu âmbito de aplicação; canal arquidiocesano “Tutela dos Fiéis”. Os protocolos locais aplicáveis deverão ser obtidos junto à Arquidiocese; as medidas preventivas deste capítulo constituem também regras internas da Pastoral.
-
----
-
-# CAPÍTULO X
-## DAS FALTAS E DO PROCEDIMENTO DISCIPLINAR
-
-### Art. 32
-As faltas serão avaliadas conforme sua gravidade e circunstâncias, considerando-se:
-
-I – **leves:** atrasos ocasionais injustificados, conversas excessivas, distração reiterada, uso indevido de celular e pequenos descuidos com vestes ou materiais;
-
-II – **moderadas:** ausências reiteradas sem aviso, falta injustificada às formações obrigatórias, desobediência consciente, desrespeito, brincadeiras perigosas, uso inadequado das vestes, exposição indevida da Pastoral em redes sociais e reincidência em faltas leves;
-
-III – **graves:** agressão, ameaça grave, bullying grave ou persistente, assédio, furto, dano intencional, grave irreverência deliberada contra a Eucaristia, profanação, conduta abusiva, retaliação, exposição deliberada de alguém a perigo, porte ou uso de substâncias ilícitas nas atividades ou comparecimento sob efeito de substâncias que prejudiquem a segurança, além de conduta gravemente incompatível com o serviço, devidamente apurada.
-
-Parágrafo único. Condutas que possam constituir delito civil ou canônico serão encaminhadas às autoridades competentes, além das providências internas cabíveis.
-
-### Art. 33
-As medidas terão finalidade educativa, corretiva, restaurativa e protetiva e poderão incluir:
-
-I – orientação fraterna, advertência verbal ou formal e diálogo com os responsáveis;
-
-II – formação adicional ou mudança temporária de função;
-
-III – retirada da escala ou suspensão temporária do serviço, com retorno condicionado à formação quando necessário;
-
-IV – desligamento da Pastoral.
-
-§1º A escolha considerará idade, maturidade, intenção, consequências, reincidência, reconhecimento do erro e segurança das pessoas. Não será necessário seguir todas as medidas em sequência quando a gravidade exigir providência imediata.
-
-§2º São proibidas medidas humilhantes, degradantes, violentas, discriminatórias ou destinadas à exposição pública.
-
-### Art. 34
-Antes de medida disciplinar grave, nas situações ordinárias, os fatos serão verificados prudentemente e o membro será ouvido. Quando menor, seus responsáveis serão informados, conforme apropriado, preservando-se a confidencialidade e evitando-se acusações públicas.
-
-### Art. 35
-Havendo risco à segurança, poderá ser determinado afastamento cautelar imediato enquanto o caso é encaminhado e analisado. Essa medida não constitui declaração antecipada de culpa.
-
-### Art. 36
-O desligamento definitivo da Pastoral será decidido pelo Pároco após análise da situação. Quem discordar de medida aplicada pela Coordenação poderá apresentar a questão ao Pároco.
-
-### Art. 37
-As medidas deste Estatuto são internas e pastorais, não constituindo penas canônicas. A suspensão do serviço não implica exclusão da vida cristã ou proibição de participar da Santa Missa.
-
-Parágrafo único. Para o acólito instituído, a suspensão ou destituição do Ministério do Acolitato dependerá do processo administrativo e da decisão do Arcebispo previstos no Decreto Arquidiocesano nº 148/2022, com direito de defesa. Medidas paroquiais poderão restringir sua participação na Pastoral ou no serviço local.
-
-**Referência:** Decreto Arquidiocesano nº 148/2022, art. 5º, com remissão ao CIC, cân. 1720, quanto à suspensão e destituição do ministério instituído. A classificação das faltas e as medidas internas são disposições paroquiais.
-
----
-
-# CAPÍTULO XI
-## DO AFASTAMENTO VOLUNTÁRIO
-
-### Art. 38
-O membro poderá solicitar afastamento temporário por motivos pessoais, sem caráter de punição.
-
-Parágrafo único. Após afastamento prolongado, poderá ser solicitada atualização formativa antes do retorno às escalas.
-
----
-
-# CAPÍTULO XII
-## DA COMUNICAÇÃO E DOS BENS DA PASTORAL
-
-### Art. 39
-Os canais oficiais da Pastoral deverão ser utilizados com respeito. É vedada a publicação, sem autorização, de documentos confidenciais, dados pessoais, informações disciplinares, fotografias inadequadas de espaços ou objetos restritos e imagens que exponham menores contrariamente às normas paroquiais ou arquidiocesanas.
-
-§1º Fotografias e vídeos de menores somente poderão ser divulgados com autorização de seus pais ou responsáveis, respeitando-se também eventual recusa ou retirada da autorização.
-
-§2º Os canais digitais envolvendo menores observarão as normas de proteção e comunicação da Paróquia e da Arquidiocese.
-
-### Art. 40
-Os materiais da Paróquia serão utilizados para finalidade legítima. Nenhum membro poderá retirar vestes, livros ou objetos sem autorização.
-
-### Art. 41
-Arrecadações em nome da Pastoral dependerão de conhecimento e autorização do Pároco. Os recursos serão administrados conforme as normas financeiras da Paróquia.
-
----
-
-# CAPÍTULO XIII
+# CAPÍTULO VII
 ## DAS DISPOSIÇÕES FINAIS
 
-### Art. 42
-Este Estatuto deverá ser revisado diante de mudanças relevantes nas normas aplicáveis ou de necessidade pastoral, com aprovação das alterações pelo Pároco. Norma superior posteriormente promulgada prevalecerá sobre disposição incompatível deste texto.
+### Art. 24
+O membro poderá pedir afastamento temporário por motivos pessoais, sem caráter de punição. Após período prolongado, a Coordenação poderá solicitar atualização formativa antes do retorno às escalas.
 
-### Art. 43
-Os casos omissos serão resolvidos pelo Pároco dentro de sua competência e encaminhados à autoridade arquidiocesana quando necessário.
+### Art. 25
+Alterações deste Estatuto exigem aprovação do Pároco. Ele resolverá casos omissos dentro de sua competência e encaminhará à Arquidiocese os que a ultrapassem.
 
-### Art. 44
-Todos os membros deverão ter acesso ao Estatuto. Recomenda-se que os pais ou responsáveis pelos menores conheçam suas principais normas.
-
-Parágrafo único. No ingresso na Pastoral, o servidor e, quando menor de idade, seus pais ou responsáveis assinarão termo de compromisso próprio.
-
-### Art. 45
-Este Estatuto entrará em vigor após aprovação do Pároco.
+### Art. 26
+Todos os membros terão acesso ao Estatuto. No ingresso, o servidor e, quando menor, seus pais ou responsáveis assinarão termo de compromisso. Este texto entra em vigor após aprovação do Pároco.
 
 ---
 
@@ -423,8 +240,9 @@ Este Estatuto entrará em vigor após aprovação do Pároco.
 
 - **[Decreto Prot. CH – 148/2022 – DG](https://arquidiocesedepalmas.org.br/wp-content/uploads/2023/10/DECRETO-148-2022.Sobre-o-Acolitado-para-Fieis-Leigo-e-Leigas-na-Arquidiocese-de-Palmas.pdf.pdf)**, de 20 de outubro de 2022: Acolitato para os fiéis leigos e leigas na Arquidiocese de Palmas.
 - **[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html)**, de 4 de dezembro de 1963, nn. 22 e 28-29.
-- **[Código de Direito Canônico — texto-base em português](https://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**, cân. 230, 231 §1, 528 §2, 838, 846 §1, 910, 943 e 1720. O PDF não incorpora todas as alterações posteriores; os cânones 230 §1 e 838 devem ser lidos com os atos modificadores abaixo.
-- **Missal Romano, terceira edição típica, tradução aprovada para o Brasil**, e **[Instrução Geral do Missal Romano (IGMR) — consulta oficial em italiano](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_it.html)**, nos números citados. Para o uso litúrgico, observar a edição brasileira, cuja adoção foi [comunicada pela CNBB](https://www.cnbb.org.br/missa-dia-3-12-no-santuario-de-aparecida-marca-o-inicio-do-uso-da-terceira-edicao-tipica-do-missal-romano-na-igreja-no-brasil/).
+- **[Catecismo da Igreja Católica — Eucaristia](https://www.vatican.va/archive/cathechism_po/index_new/p2s2cap1_1210-1419_po.html)** e **[Penitência e Reconciliação](https://www.vatican.va/archive/cathechism_po/index_new/p2s2cap1_1420-1532_po.html)**, nn. 1385 e 1457-1458.
+- **[Código de Direito Canônico — texto-base em português](https://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**, cân. 230, 231 §1, 528 §2, 838, 846 §1, 910, 916, 943, 983-984, 989 e 1720. O PDF não incorpora todas as alterações posteriores; os cânones 230 §1 e 838 devem ser lidos com os atos modificadores abaixo.
+- **Missal Romano, terceira edição típica, tradução aprovada para o Brasil**, e **[Instrução Geral do Missal Romano (IGMR) — consulta oficial em italiano](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_it.html)**. Para o uso litúrgico, observar a edição brasileira, cuja adoção foi [comunicada pela CNBB](https://www.cnbb.org.br/missa-dia-3-12-no-santuario-de-aparecida-marca-o-inicio-do-uso-da-terceira-edicao-tipica-do-missal-romano-na-igreja-no-brasil/).
 - **[Redemptionis Sacramentum](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_po.html)**, de 25 de março de 2004, nn. 43-47 e 153-158.
 - **[Spiritus Domini](https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html)**, de 10 de janeiro de 2021: alteração do cân. 230 §1 sobre o acesso de fiéis leigos e leigas aos ministérios instituídos.
 - **[Magnum Principium](https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)**, de 3 de setembro de 2017: alteração do cân. 838 sobre a competência em matéria litúrgica.
