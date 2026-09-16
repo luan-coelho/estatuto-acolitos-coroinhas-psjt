@@ -34,7 +34,7 @@ describe('sincronização do estatuto', () => {
     expect(transformed).not.toMatch(/^#\s+/mu);
     expect(transformed.match(/^## CAPÍTULO\s+/gmu)).toHaveLength(7);
     expect([...transformed.matchAll(/^### Art\. (\d+)º?$/gmu)].map(([, number]) => Number(number)))
-      .toEqual(Array.from({ length: 20 }, (_, index) => index + 1));
+      .toEqual(Array.from({ length: 22 }, (_, index) => index + 1));
     expect(transformed).toContain('## CAPÍTULO I — DA FINALIDADE E DA ORGANIZAÇÃO');
     expect(transformed).toContain('## APROVAÇÃO PAROQUIAL');
   });
