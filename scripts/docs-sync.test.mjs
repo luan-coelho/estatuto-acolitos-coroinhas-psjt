@@ -45,7 +45,8 @@ describe('sincronização do estatuto', () => {
 
     expect(nonHeadingLines(generatedBeforeSignatures)).toEqual(nonHeadingLines(sourceBeforeSignatures));
     expect(transformed.match(/class="approval-field(?:\s|"|--)/gu)).toHaveLength(4);
-    expect(transformed.match(/Pela Coordenação dos Acólitos e Coroinhas/gu)).toHaveLength(2);
+    expect(transformed).toContain('Coordenador dos Acólitos e Coroinhas');
+    expect(transformed).toContain('Coordenadora dos Acólitos e Coroinhas');
     expect(transformed).toContain('Local e data');
   });
 });

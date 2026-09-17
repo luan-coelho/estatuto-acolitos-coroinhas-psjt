@@ -22,11 +22,9 @@ I – **Aspirante:** pessoa em formação inicial, ainda não admitida às escal
 
 II – **Coroinha:** criança ou adolescente que auxilia no serviço do altar;
 
-III – **Acólito temporário ou investido:** fiel leigo ou leiga que exerce transitoriamente funções do acolitato, inclusive quando menor;
+III – **Acólito:** fiel leigo ou leiga que, após a formação e a investidura paroquial, auxilia no serviço do altar;
 
-IV – **Acólito instituído:** fiel leigo ou leiga maior de idade, instituído de modo estável no Ministério do Acolitato;
-
-V – **Cerimoniário:** acólito instituído ou temporário que exerce essa função em uma celebração.
+IV – **Cerimoniário:** acólito preparado para organizar e acompanhar as funções em uma celebração.
 
 Parágrafo único. Neste Estatuto, “servidores do altar” compreende coroinhas e acólitos.
 
@@ -47,7 +45,7 @@ Pode solicitar ingresso quem seja católico, tenha completado 8 anos ou recebido
 
 §1º A entrada nas escalas exige formação inicial, idoneidade e preparação prática. A Coordenação poderá acompanhar o aspirante antes da admissão definitiva.
 
-§2º A admissão e a investidura temporária não são sacramentos nem instituição estável. Nas celebrações, usar-se-ão somente ritos ou bênçãos legitimamente aprovados.
+§2º A admissão e a investidura paroquial não são sacramentos. Nas celebrações, usar-se-ão somente ritos ou bênçãos legitimamente aprovados.
 
 ### Art. 5º
 A formação inicial e permanente abrangerá vida espiritual e doutrina cristã, Liturgia e sacramentos, funções e objetos litúrgicos e prática do serviço litúrgico. A Coordenação organizará os ensaios; todos participarão das formações obrigatórias, inclusive após a admissão.
@@ -76,7 +74,7 @@ IV – tratar todos com respeito, cuidar das vestes e dos objetos e comunicar ac
 
 §1º Antes de cada Missa ou celebração e, quando possível, também ao final, os servidores poderão reunir-se para uma breve oração em comum, como o Vinde, Espírito Santo, a Ave-Maria ou uma oração espontânea.
 
-§2º Ao comungar, quem já recebe a Eucaristia deverá fazê-lo com a devida disposição; tendo consciência de pecado grave, observará a disciplina da Igreja sobre Confissão antes da Comunhão.
+§2º Quem tiver consciência de estar em pecado mortal não deverá comungar antes de receber a absolvição sacramental.
 
 §3º A Coordenação incentivará a Confissão sem exigir revelação de pecados, comprovante ou explicação pública. A necessidade de buscar o sacramento não impedirá o serviço, que também poderá despertar no membro o desejo de se reconciliar com Deus.
 
@@ -88,9 +86,7 @@ IV – tratar todos com respeito, cuidar das vestes e dos objetos e comunicar ac
 ### Art. 8º
 Cada servidor exercerá apenas funções para as quais tenha sido preparado e designado, respeitando o sacerdote, o diácono e os demais ministros. Poderá transportar cruz, velas, turíbulo e naveta, apresentar os dons, auxiliar com o Missal e no lavabo e preparar objetos e espaços nos limites permitidos aos leigos. Ninguém alterará textos, gestos ou ritos por iniciativa própria.
 
-§1º O cerimoniário deverá ter formação litúrgica adequada e atuar em comunhão com os responsáveis pela celebração; essa função não constitui ministério instituído distinto.
-
-§2º O acólito instituído exercerá as funções previstas no Decreto Arquidiocesano nº 148/2022.
+Parágrafo único. O cerimoniário deverá ter formação litúrgica adequada e atuar em comunhão com os responsáveis pela celebração.
 
 ---
 
@@ -102,7 +98,7 @@ As vestes identificarão as funções litúrgicas, sem distinção de gênero no
 
 I – **Coroinha:** túnica vermelha com sobrepeliz;
 
-II – **Acólito instituído e, como padrão paroquial, acólito temporário:** alva ou túnica branca, com cíngulo, salvo quando o feitio da veste o dispensar. O amito será usado antes da alva quando ela não encobrir as vestes comuns ao redor do pescoço;
+II – **Acólito:** alva ou túnica branca, com cíngulo, salvo quando o feitio da veste o dispensar. O amito será usado antes da alva quando ela não encobrir as vestes comuns ao redor do pescoço;
 
 III – **Acólito na função de cerimoniário:** poderá usar, nessa celebração, veste talar preta, com pala no pescoço, e sobrepeliz.
 
@@ -201,7 +197,7 @@ As medidas deste capítulo são internas e pastorais; não excluem o membro da v
 O membro poderá pedir afastamento temporário por motivos pessoais, sem caráter de punição. Após período prolongado, a Coordenação poderá solicitar atualização formativa antes do retorno às escalas.
 
 ### Art. 21
-Alterações deste Estatuto exigem aprovação do Pároco. Ele resolverá casos omissos dentro de sua competência e encaminhará à Arquidiocese os que a ultrapassem.
+Alterações deste Estatuto exigem aprovação do Pároco. Ele resolverá casos omissos dentro de sua competência.
 
 ### Art. 22
 Todos os membros terão acesso ao Estatuto. No ingresso, o servidor e, quando menor, seus pais ou responsáveis assinarão termo de compromisso. Este texto entra em vigor após aprovação do Pároco.
@@ -213,10 +209,9 @@ Todos os membros terão acesso ao Estatuto. No ingresso, o servidor e, quando me
 - **[Decreto Prot. CH – 148/2022 – DG](https://arquidiocesedepalmas.org.br/wp-content/uploads/2023/10/DECRETO-148-2022.Sobre-o-Acolitado-para-Fieis-Leigo-e-Leigas-na-Arquidiocese-de-Palmas.pdf.pdf)**, de 20 de outubro de 2022: Acolitato para os fiéis leigos e leigas na Arquidiocese de Palmas.
 - **[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html)**, de 4 de dezembro de 1963, nn. 22 e 28-29.
 - **[Catecismo da Igreja Católica — Eucaristia](https://www.vatican.va/archive/cathechism_po/index_new/p2s2cap1_1210-1419_po.html)** e **[Penitência e Reconciliação](https://www.vatican.va/archive/cathechism_po/index_new/p2s2cap1_1420-1532_po.html)**, nn. 1385 e 1457-1458.
-- **[Código de Direito Canônico — texto-base em português](https://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**, cân. 230, 231 §1, 528 §2, 838, 846 §1, 910, 916, 943, 983-984, 989 e 1720. O PDF não incorpora todas as alterações posteriores; os cânones 230 §1 e 838 devem ser lidos com os atos modificadores abaixo.
+- **[Código de Direito Canônico — texto-base em português](https://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**, cân. 231 §1, 528 §2, 838, 846 §1, 910, 916, 943, 983-984, 989 e 1720. O PDF não incorpora todas as alterações posteriores; o cân. 838 deve ser lido com o ato modificador abaixo.
 - **Missal Romano, terceira edição típica, tradução aprovada para o Brasil**, e **[Instrução Geral do Missal Romano (IGMR) — consulta oficial em italiano](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_it.html)**. Para o uso litúrgico, observar a edição brasileira, cuja adoção foi [comunicada pela CNBB](https://www.cnbb.org.br/missa-dia-3-12-no-santuario-de-aparecida-marca-o-inicio-do-uso-da-terceira-edicao-tipica-do-missal-romano-na-igreja-no-brasil/).
 - **[Redemptionis Sacramentum](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_po.html)**, de 25 de março de 2004, nn. 43-47 e 153-158.
-- **[Spiritus Domini](https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html)**, de 10 de janeiro de 2021: alteração do cân. 230 §1 sobre o acesso de fiéis leigos e leigas aos ministérios instituídos.
 - **[Magnum Principium](https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)**, de 3 de setembro de 2017: alteração do cân. 838 sobre a competência em matéria litúrgica.
 - **[Vos estis lux mundi](https://www.vatican.va/content/francesco/pt/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html)**, de 25 de março de 2023, arts. 1º-5º e 20, segundo seu âmbito de aplicação.
 - **[Tutela dos Fiéis — Arquidiocese de Palmas](https://arquidiocesedepalmas.org.br/tutela-dos-fieis-vos-estis-lux-mundi/)**: canal oficial de recebimento de denúncias. As normas complementares e os protocolos locais aplicáveis deverão ser obtidos com o Pároco e a Arquidiocese.
@@ -233,11 +228,11 @@ Pároco
 
 ________________________________________  
 **______________________________________**  
-Pela Coordenação dos Acólitos e Coroinhas
+Coordenador dos Acólitos e Coroinhas
 
 ________________________________________  
 **______________________________________**
-Pela Coordenação dos Acólitos e Coroinhas
+Coordenadora dos Acólitos e Coroinhas
 
 ________________________________________
 **Local e data**

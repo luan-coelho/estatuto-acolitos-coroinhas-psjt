@@ -88,7 +88,7 @@ export function transformStatute(source) {
     output.push(line);
   }
 
-  const signaturePattern = /^_{10,}[ \t]*\n\*\*Pe\. _{10,}\*\*[ \t]*\nPároco\n\n_{10,}[ \t]*\n\*\*_{10,}\*\*[ \t]*\nPela Coordenação dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*_{10,}\*\*[ \t]*\nPela Coordenação dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*Local e data\*\*[ \t]*$/mu;
+  const signaturePattern = /^_{10,}[ \t]*\n\*\*Pe\. _{10,}\*\*[ \t]*\nPároco\n\n_{10,}[ \t]*\n\*\*_{10,}\*\*[ \t]*\nCoordenador dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*_{10,}\*\*[ \t]*\nCoordenadora dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*Local e data\*\*[ \t]*$/mu;
   const signatureFields = `<div class="approval-fields" aria-label="Campos de aprovação">
   <div class="approval-field">
     <span class="approval-field__signature" aria-hidden="true"></span>
@@ -96,11 +96,11 @@ export function transformStatute(source) {
   </div>
   <div class="approval-field">
     <span class="approval-field__signature" aria-hidden="true"></span>
-    <span>Pela Coordenação dos Acólitos e Coroinhas</span>
+    <span>Coordenador dos Acólitos e Coroinhas</span>
   </div>
   <div class="approval-field">
     <span class="approval-field__signature" aria-hidden="true"></span>
-    <span>Pela Coordenação dos Acólitos e Coroinhas</span>
+    <span>Coordenadora dos Acólitos e Coroinhas</span>
   </div>
   <div class="approval-field approval-field--date">
     <span class="approval-field__signature" aria-hidden="true"></span>
