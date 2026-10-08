@@ -43,6 +43,14 @@ Edite sempre o arquivo `estatuto.md` da raiz. A pasta `src/content/docs/` é ger
 
 O sincronizador conserva o texto normativo e adapta somente a hierarquia dos títulos para que capítulos e artigos funcionem corretamente no sumário e nos links do site.
 
+## Impressão
+
+Na página do Estatuto, use **Imprimir documento** ou **Ctrl+P** (Windows/Linux) / **Cmd+P** (macOS). O botão abre a impressão nativa do navegador.
+
+Para o formato preparado, selecione papel **A4**, orientação **retrato** e escala **100%**. Mantenha as margens definidas pela página e desative os cabeçalhos e rodapés automáticos do navegador. Não é necessário imprimir gráficos de fundo.
+
+A impressão usa texto de 12 pt, fundo branco e margens de 20 mm. A navegação fica oculta, e a aprovação paroquial começa em página própria, com as assinaturas e a data preenchida.
+
 ## Publicação no Cloudflare Workers
 
 O portal é totalmente estático. O arquivo `wrangler.jsonc` orienta o Wrangler a publicar o conteúdo de `dist/`, sem servidor ou adaptador SSR.

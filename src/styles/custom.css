@@ -10,24 +10,24 @@
 :root {
   --sl-font: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
   --sl-content-width: 52rem;
-  --sl-color-accent-low: #3b1820;
-  --sl-color-accent: #e0bd73;
-  --sl-color-accent-high: #faebc5;
-  --sl-color-white: #fffaf0;
-  --sl-color-gray-1: #f4eadb;
-  --sl-color-gray-2: #d8cabc;
-  --sl-color-gray-3: #ad9c91;
-  --sl-color-gray-4: #82736d;
-  --sl-color-gray-5: #5a4d4c;
-  --sl-color-gray-6: #302629;
-  --sl-color-gray-7: #241b1e;
-  --sl-color-black: #181113;
-  --sl-color-bg: #181113;
-  --sl-color-bg-nav: rgb(24 17 19 / 94%);
-  --sl-color-bg-sidebar: #211719;
-  --sl-color-hairline-light: #48373a;
-  --sl-color-hairline: #594448;
-  --sl-color-hairline-shade: #6c5257;
+  --sl-color-accent-low: #243d34;
+  --sl-color-accent: #9ec8b3;
+  --sl-color-accent-high: #c7e3d4;
+  --sl-color-white: #f2f5f7;
+  --sl-color-gray-1: #e4eaee;
+  --sl-color-gray-2: #c6d0d8;
+  --sl-color-gray-3: #9aabb7;
+  --sl-color-gray-4: #728593;
+  --sl-color-gray-5: #465763;
+  --sl-color-gray-6: #2b3741;
+  --sl-color-gray-7: #202a33;
+  --sl-color-black: #10161b;
+  --sl-color-bg: #161d23;
+  --sl-color-bg-nav: rgb(25 33 40 / 96%);
+  --sl-color-bg-sidebar: #1c252d;
+  --sl-color-hairline-light: #303e49;
+  --sl-color-hairline: #3d4d59;
+  --sl-color-hairline-shade: #536673;
   color-scheme: dark;
 }
 
@@ -105,8 +105,8 @@ header.header {
 }
 
 .sidebar-pane a[aria-current='page'] {
-  background: #4a2029;
-  color: #f8e3b2;
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
   font-weight: 700;
 }
 
@@ -131,6 +131,26 @@ h1#_top {
   line-height: 1.08;
   letter-spacing: -0.035em;
   text-align: center;
+}
+
+.document-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.25rem;
+}
+
+.document-actions button {
+  border: 1px solid var(--sl-color-hairline);
+  border-radius: 0.35rem;
+  padding: 0.55rem 1rem;
+  background: var(--sl-color-bg-sidebar);
+  color: var(--sl-color-white);
+  font: 600 1rem 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
+  cursor: pointer;
+}
+
+.document-actions button:hover {
+  border-color: var(--sl-color-accent);
 }
 
 .sl-markdown-content {
@@ -167,6 +187,7 @@ h1#_top {
   margin-top: 3.5rem;
   padding-top: 1.6rem;
   border-top: 1px solid var(--sl-color-hairline);
+  text-align: center;
 }
 
 .sl-markdown-content h2 {
@@ -212,9 +233,14 @@ h1#_top {
 }
 
 .sl-markdown-content :where(p, li) {
-  hyphens: auto;
+  hyphens: none;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.sl-markdown-content .sl-heading-wrapper:has(> #referências-normativas) + ul :where(li, p) {
+  hyphens: none;
+  text-align: left;
 }
 
 .approval-fields {
@@ -222,14 +248,17 @@ h1#_top {
   max-width: 34rem;
   gap: 2.6rem;
   margin-top: 3.25rem;
+  margin-inline: auto;
 }
 
 .approval-field {
   display: flex;
   break-inside: avoid;
   flex-direction: column;
+  align-items: center;
   gap: 0.15rem;
   line-height: 1.45;
+  text-align: center;
 }
 
 .approval-field__signature {
@@ -240,7 +269,16 @@ h1#_top {
 }
 
 .approval-field--date {
+  width: 100%;
   max-width: 20rem;
+  margin-inline: auto;
+}
+
+.approval-field--date .approval-field__signature {
+  border-top: 0;
+  border-bottom: 1px solid;
+  padding-bottom: 0.2rem;
+  text-align: center;
 }
 
 @media (min-width: 72rem) {
@@ -289,7 +327,7 @@ h1#_top {
 @media print {
   @page {
     size: A4;
-    margin: 18mm 17mm 20mm;
+    margin: 20mm;
   }
 
   :root,
@@ -309,16 +347,21 @@ h1#_top {
   .mobile-starlight-toc,
   .pagination-links,
   .sl-anchor-link,
+  .sl-skip-link,
+  .document-actions,
   footer {
     display: none !important;
   }
 
+  html,
   body,
   .page,
   .main-frame,
+  .main-frame > .lg\:sl-flex,
   .main-pane,
   main,
-  .content-panel {
+  .content-panel,
+  .sl-container {
     width: 100% !important;
     max-width: none !important;
     margin: 0 !important;
@@ -327,6 +370,14 @@ h1#_top {
     background: #fff !important;
     color: #000 !important;
     box-shadow: none !important;
+    overflow: visible !important;
+  }
+
+  .page,
+  .main-frame > .lg\:sl-flex,
+  .main-pane {
+    display: block !important;
+    min-height: 0 !important;
   }
 
   h1#_top {
@@ -334,23 +385,25 @@ h1#_top {
     margin: 0 0 8mm;
     font-size: 21pt;
     text-align: center;
+    break-after: avoid-page;
   }
 
   .sl-markdown-content {
     max-width: none;
     color: #000;
-    font-size: 10.8pt;
+    font-size: 12pt;
     line-height: 1.5;
   }
 
   .sl-markdown-content > p:first-child {
     margin-bottom: 10mm;
     color: #000;
-    font-size: 9.5pt;
+    font-size: 10pt;
+    break-after: avoid-page;
   }
 
-  .sl-markdown-content > p:not(:first-child) {
-    hyphens: auto;
+  .sl-markdown-content :where(p, li) {
+    hyphens: none;
     orphans: 3;
     text-align: justify;
     widows: 3;
@@ -360,23 +413,38 @@ h1#_top {
     margin-top: 10mm;
     padding-top: 5mm;
     border-top-color: #777;
+    break-inside: avoid-page;
     break-after: avoid-page;
   }
 
   .sl-markdown-content h2 {
     max-width: none;
     color: #000;
-    font-size: 12pt;
+    font-size: 13pt;
+    break-after: avoid-page;
   }
 
   .sl-markdown-content .sl-heading-wrapper.level-h3 {
     margin-top: 6mm;
+    break-inside: avoid-page;
     break-after: avoid-page;
   }
 
   .sl-markdown-content h3 {
-    color: #000;
-    font-size: 10.8pt;
+    color: #000 !important;
+    font-size: 12pt;
+    break-after: avoid-page;
+  }
+
+  .sl-markdown-content .sl-heading-wrapper:has(> #aprovação-paroquial) {
+    break-before: page;
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+  }
+
+  .sl-markdown-content .sl-heading-wrapper:has(> #aprovação-paroquial) + p {
+    break-after: avoid-page;
   }
 
   .sl-markdown-content blockquote {
@@ -387,11 +455,23 @@ h1#_top {
   .sl-markdown-content a {
     color: inherit !important;
     text-decoration: none !important;
+    overflow-wrap: anywhere;
   }
 
   .approval-fields {
-    gap: 8mm;
-    margin-top: 10mm;
+    display: block;
+    max-width: none;
+    margin-top: 16mm;
+    break-inside: avoid-page;
+  }
+
+  .approval-field {
+    margin-top: 16mm;
+    break-inside: avoid-page;
+  }
+
+  .approval-field:first-child {
+    margin-top: 0;
   }
 
   .approval-field__signature {

@@ -21,6 +21,9 @@ export default defineConfig({
       routeMiddleware: './src/starlight-route-data.ts',
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 2 },
       customCss: ['./src/styles/custom.css'],
+      components: {
+        PageTitle: './src/components/PageTitle.astro',
+      },
       head: [
         {
           tag: 'meta',

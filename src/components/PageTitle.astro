@@ -1,0 +1,24 @@
+---
+import DefaultPageTitle from '@astrojs/starlight/components/PageTitle.astro';
+
+const isStatute = Astro.url.pathname === '/';
+---
+
+<DefaultPageTitle />
+{isStatute && (
+  <div class="document-actions">
+    <button type="button" id="print-document" hidden>Imprimir documento</button>
+  </div>
+)}
+
+<script>
+  const printButton = document.querySelector<HTMLButtonElement>('#print-document');
+
+  if (printButton) {
+    printButton.hidden = false;
+    printButton.addEventListener('click', async () => {
+      await document.fonts.ready;
+      window.print();
+    });
+  }
+</script>

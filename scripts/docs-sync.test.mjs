@@ -45,8 +45,10 @@ describe('sincronização do estatuto', () => {
 
     expect(nonHeadingLines(generatedBeforeSignatures)).toEqual(nonHeadingLines(sourceBeforeSignatures));
     expect(transformed.match(/class="approval-field(?:\s|"|--)/gu)).toHaveLength(4);
-    expect(transformed).toContain('Coordenador dos Acólitos e Coroinhas');
-    expect(transformed).toContain('Coordenadora dos Acólitos e Coroinhas');
+    expect(transformed).toContain('<strong>Pe. Heldeir Gomes Carneiro</strong> — Pároco');
+    expect(transformed).toContain('<strong>Luan Coelho de Souza</strong> — Coordenador dos Acólitos e Coroinhas');
+    expect(transformed).toContain('<strong>Ester Costa Cantuares Coelho</strong> — Coordenadora dos Acólitos e Coroinhas');
     expect(transformed).toContain('Local e data');
+    expect(transformed).toContain('<span class="approval-field__signature">Palmas – TO, 08/10/2026</span>');
   });
 });

@@ -107,7 +107,7 @@ III – **Acólito na função de cerimoniário:** poderá usar, nessa celebraç
 ### Art. 10
 Cada servidor cuidará de sua veste e devolverá as peças da Paróquia em boas condições. A aquisição e a conservação das vestes do acólito são de sua responsabilidade.
 
-§1º No serviço, serão usados somente tênis inteiramente preto, inclusive sola, cadarços e detalhes, sapato social preto ou sapatilha preta fechada, sempre firmes nos pés. Por respeito ao serviço litúrgico e à segurança dos servidores, não serão usados chinelos, sandálias abertas, tamancos, saltos altos, plataformas ou modelos com luzes, rodas ou sons.
+§1º Todos os servidores deverão usar calça comprida durante o serviço litúrgico. No serviço, serão usados somente tênis inteiramente preto, inclusive sola, cadarços e detalhes, sapato social preto ou sapatilha preta fechada, sempre firmes nos pés. Por respeito ao serviço litúrgico e à segurança dos servidores, não serão usados chinelos, sandálias abertas, tamancos, saltos altos, plataformas ou modelos com luzes, rodas ou sons.
 
 §2º As meninas com cabelos compridos os manterão presos em coque, trança ou rabo de cavalo.
 
@@ -223,16 +223,17 @@ Todos os membros terão acesso ao Estatuto. No ingresso, o servidor e, quando me
 Aprovo o presente **Estatuto e Regimento Interno dos Acólitos e Coroinhas da Paróquia São Judas Tadeu**, observadas as normas universais e particulares da Igreja.
 
 ________________________________________  
-**Pe. __________________________________**  
+**Pe. Heldeir Gomes Carneiro**
 Pároco
 
 ________________________________________  
-**______________________________________**  
+**Luan Coelho de Souza**
 Coordenador dos Acólitos e Coroinhas
 
 ________________________________________  
-**______________________________________**
+**Ester Costa Cantuares Coelho**
 Coordenadora dos Acólitos e Coroinhas
 
+Palmas – TO, 08/10/2026
 ________________________________________
 **Local e data**

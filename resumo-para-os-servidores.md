@@ -9,7 +9,7 @@ Este resumo apresenta os principais compromissos dos coroinhas e acólitos. Em c
 4. Cumprir somente a função recebida e seguir as orientações dos responsáveis pela celebração.
 5. Manter a atenção e o recolhimento, sem conversas alheias ao serviço. Usar celular somente por necessidade autorizada.
 6. Cuidar das vestes, dos livros, dos objetos litúrgicos e dos espaços da igreja.
-7. Usar tênis todo preto, sapato social preto ou sapatilha preta fechada. As meninas com cabelos compridos deverão prendê-los em coque, trança ou rabo de cavalo durante o serviço.
+7. Todos os servidores deverão usar calça comprida durante o serviço litúrgico. Usar tênis todo preto, sapato social preto ou sapatilha preta fechada. As meninas com cabelos compridos deverão prendê-los em coque, trança ou rabo de cavalo durante o serviço.
 8. Tratar todas as pessoas com dignidade e fraternidade, sem apelidos humilhantes, bullying, discriminação, agressão ou assédio.
 9. Procurar um adulto de confiança quando se sentir em perigo, desconfortável ou desrespeitado, ou quando perceber que alguém precisa de ajuda.
 10. Não divulgar fotografias, vídeos, dados pessoais ou assuntos reservados sem autorização.
