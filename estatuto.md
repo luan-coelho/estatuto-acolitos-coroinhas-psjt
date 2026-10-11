@@ -234,6 +234,6 @@ ________________________________________
 **Ester Costa Cantuares Coelho**
 Coordenadora dos Acólitos e Coroinhas
 
-Palmas – TO, 08/10/2026
+Palmas – TO, 11/10/2026
 ________________________________________
 **Local e data**

@@ -8,6 +8,9 @@ const isStatute = Astro.url.pathname === '/';
 {isStatute && (
   <div class="document-actions">
     <button type="button" id="print-document" hidden>Imprimir documento</button>
+    <a class="document-actions__download" href="/estatuto-regimento-interno-assinado.pdf" download>
+      Baixar versão assinada em PDF
+    </a>
   </div>
 )}
 

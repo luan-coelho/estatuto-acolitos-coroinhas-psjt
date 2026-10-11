@@ -88,7 +88,7 @@ export function transformStatute(source) {
     output.push(line);
   }
 
-  const signaturePattern = /^_{10,}[ \t]*\n\*\*Pe\. Heldeir Gomes Carneiro\*\*[ \t]*\nPároco\n\n_{10,}[ \t]*\n\*\*Luan Coelho de Souza\*\*[ \t]*\nCoordenador dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*Ester Costa Cantuares Coelho\*\*[ \t]*\nCoordenadora dos Acólitos e Coroinhas\n\nPalmas – TO, 08\/10\/2026\n_{10,}[ \t]*\n\*\*Local e data\*\*[ \t]*$/mu;
+  const signaturePattern = /^_{10,}[ \t]*\n\*\*Pe\. Heldeir Gomes Carneiro\*\*[ \t]*\nPároco\n\n_{10,}[ \t]*\n\*\*Luan Coelho de Souza\*\*[ \t]*\nCoordenador dos Acólitos e Coroinhas\n\n_{10,}[ \t]*\n\*\*Ester Costa Cantuares Coelho\*\*[ \t]*\nCoordenadora dos Acólitos e Coroinhas\n\nPalmas – TO, 11\/10\/2026\n_{10,}[ \t]*\n\*\*Local e data\*\*[ \t]*$/mu;
   const signatureFields = `<div class="approval-fields" aria-label="Campos de aprovação">
   <div class="approval-field">
     <span class="approval-field__signature" aria-hidden="true"></span>
@@ -103,7 +103,7 @@ export function transformStatute(source) {
     <span><strong>Ester Costa Cantuares Coelho</strong> — Coordenadora dos Acólitos e Coroinhas</span>
   </div>
   <div class="approval-field approval-field--date">
-    <span class="approval-field__signature">Palmas – TO, 08/10/2026</span>
+    <span class="approval-field__signature">Palmas – TO, 11/10/2026</span>
     <strong>Local e data</strong>
   </div>
 </div>`;

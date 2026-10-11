@@ -49,6 +49,6 @@ describe('sincronização do estatuto', () => {
     expect(transformed).toContain('<strong>Luan Coelho de Souza</strong> — Coordenador dos Acólitos e Coroinhas');
     expect(transformed).toContain('<strong>Ester Costa Cantuares Coelho</strong> — Coordenadora dos Acólitos e Coroinhas');
     expect(transformed).toContain('Local e data');
-    expect(transformed).toContain('<span class="approval-field__signature">Palmas – TO, 08/10/2026</span>');
+    expect(transformed).toContain('<span class="approval-field__signature">Palmas – TO, 11/10/2026</span>');
   });
 });
