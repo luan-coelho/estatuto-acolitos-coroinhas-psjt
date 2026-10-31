@@ -38,9 +38,11 @@ Este arquivo reúne as preferências da Coordenação para montar as escalas.
 ## Formato
 
 - O modelo segue o docx das escalas anteriores. O título fica em verde: "PASTORAL DOS ACÓLITOS E COROINHAS - PSJT" e "ESCALA DO MÊS DE …/ano".
+- O vitral de São Judas Tadeu aparece no alto de todas as páginas, e a logo da paróquia fica acima do título. As duas imagens estão em [`assets/`](assets/).
 - Cada dia tem um cabeçalho em vermelho com a data e a celebração litúrgica, por exemplo "08/11/2026 - XXXII Domingo do Tempo Comum".
 - Colunas: horário, Coroinha e Função. A coluna Função fica centralizada.
 - Cada nome leva o selo **A** (acólito) ou **C** (coroinha).
+- Depois da tabela vêm as nove Orientações do docx, com o título e os rótulos em vermelho.
 - Durante a revisão, a escala tem um quadro de pendências e uma tabela de conferência por pessoa. A versão final e o PDF saem sem esses dois.
 - O PDF é impresso a partir do HTML em A4, em fluxo contínuo e sem espaço em branco entre os dias. Uma missa pode continuar na página seguinte, mas o cabeçalho do dia nunca fica sozinho no fim da página. O PDF não é guardado no repositório.
 
