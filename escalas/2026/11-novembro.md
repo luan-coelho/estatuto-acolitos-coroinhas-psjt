@@ -15,6 +15,7 @@ Recados usados para montar a [escala de novembro](11-novembro.html). As regras g
 | Pietro | Fora no fim de semana de 07 e 08 e em 15; Enem | Sem escala em 07, 08 e 15 |
 | Sara | 31/10, 03, 05, 08, 15, 17, 19, 22 e 29 | "De manhã" foi aplicado a todos os domingos da lista |
 | Vitória | Não pode em 01/11 | Sem escala em 01/11 |
+| Yan | Viagem em 01 e 02/11 | Sem escala em 01 e 02/11 |
 
 ## Missas especiais do mês
 
